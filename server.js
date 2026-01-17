@@ -37,4 +37,4 @@ wss.on("connection", (ws) => {
   });
 });
 
-console.log(`✅ Signaling server running on port ${PORT}`);
+console.log(`Signaling server running on port ${PORT}`);
