@@ -1,2 +1,2 @@
-# shmeg1repo
+# shmeg_render_repo
 signaling server webRTC
